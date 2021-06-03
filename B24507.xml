@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Symbolē, sive Conflictus cum antichristo: or, Reflections upon, and an answer to Mr. No-bodies dialogue feigned between an old Q Elizabeth Protestant, and his neighbour, as far as the writings and person of John Humphries, are therein abused and calumniated through the malice of a second Bo-peep author. Wherein falsely and maliciously he is made a papist by Mr. Momus that lies hid in the belly of the Trojan horse; with a parallel of the principles of a papist and a true Protestant, and a brief confession of the faith of the author.</title>
+            <author>Humfrey, John, 1621-1719.</author>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24507</idno><idno type="EEBO-CITATION">99828216</idno>
+  <idno type="VID">207789</idno>
+  <idno type="EEBO-PROQUEST">2240885771</idno>
+  
+            <idno type="STC">Wing H3711</idno>
+            <idno type="PROQUEST">99828216</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828216e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207789)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1949:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Symbolē, sive Conflictus cum antichristo: or, Reflections upon, and an answer to Mr. No-bodies dialogue feigned between an old Q Elizabeth Protestant, and his neighbour, as far as the writings and person of John Humphries, are therein abused and calumniated through the malice of a second Bo-peep author. Wherein falsely and maliciously he is made a papist by Mr. Momus that lies hid in the belly of the Trojan horse; with a parallel of the principles of a papist and a true Protestant, and a brief confession of the faith of the author.</title>
+                  <author>Humfrey, John, 1621-1719.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>First word of title is in Greek characters.</note>
+                  <note>At end: Written by John Humphryes.</note>
+                  <note>Imprint from colophon; place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Protestants --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:207789:1"/>
+            <head>ΣΥΜΒΟΑΗ, <hi>Sive Conflictus cum Antichristo:</hi> Or,</head>
+            <head>Reflections upon, and an Answer to Mr. <hi>No-bodies</hi> Dialogue, feigned between an Old Q <hi>Elizabeth.</hi> Protestant, and his Neighbour, as far as the Writings and person of <hi>John Humphries,</hi> are therein abused and calumniated through the malice of a second <hi>Bo-peep</hi> Author.</head>
+            <head type="sub">Wherein falsely and maliciously he is made a <hi>Papist</hi> by Mr. <hi>Momus</hi> that lies hid in the Belly of the <hi>Trojan</hi> Horse; with a Parallel of the Principles of a <hi>Papist</hi> and a true Protestant, and a brief confession of the Faith of the Author.</head>
+            <epigraph>
+               <q>
+                  <hi>In Divinis nihil minimum.</hi>
+                  <bibl>Tertul.</bibl>
+               </q>
+            </epigraph>
+            <p>
+               <hi>SAnnieticus</hi> King of <hi>Egypt</hi> being taken Prisoner by <hi>Cambyses,</hi> sees his Daughter in a servile Habit drawing of Water, and his Son guarded by armed men to his death, he looks upon them both with dry eyes. After<g ref="char:EOLhyphen"/>ward he sees one of his friends half naked and almost starved, begging food to keep him alive, he abandons himself to grief, weeping and la<g ref="char:EOLhyphen"/>mentation. The solution of this knot being very difficult, <hi>Cambyses</hi> desires to know the reason, and causes <hi>Sannieticus</hi> to be examined about it. The captive King answers, That he having no grief so equal to the two first calamities had sacrificed it to the third as worthy of it. So to see the Sons and Daughters of professing Protestants abused and wheedled into Popish principles, drawing the <hi>Romish</hi> waters of slavery and error out of the Wells of zeal and pretended ho<g ref="char:EOLhyphen"/>liness, with the buckets of Popish and Jewish ignorance, and <hi>implicit faith;</hi> and her Sons attended with a black guard of <hi>Heterodox</hi> and <hi>Heterogenious</hi> Sy<g ref="char:EOLhyphen"/>cophants to their own death and perdition, as being out of the faith of the Co<g ref="char:EOLhyphen"/>venant of free Grace, exhibited by the love of an eternal Father, purchased by the love of a gracious Son, and tendered to sinners out of the Word of Grace by the Spirit of Grace. All this as being above the springs of my grief, I have beheld for some years past, with too too dry eyes. But when I see my Friends, <hi>Protestants</hi> and <hi>Presbyterians,</hi> and others, stripped half naked by ren<g ref="char:EOLhyphen"/>ding of Christs <hi>Imputed Righteousness,</hi> and only having a few stinking menstru<g ref="char:EOLhyphen"/>ous rags of their own dung and dross on them, being indeed but a meer phan<g ref="char:EOLhyphen"/>tasm or image, and not the true Righteousness, being half starved for want of the Divine heat and life of Love, the efflux only of the true faith of Jesus, ha<g ref="char:EOLhyphen"/>ving forsaken their Fathers <hi>Bethlethem,</hi> or house of bread, feeding upon husks, and besotted with the <hi>Cambysean</hi> dregs of <hi>Popish, Arminian, Pelagian</hi> and <hi>So<g ref="char:EOLhyphen"/>cinian</hi> Errours. This makes me wish my head a fountain, and my eyes springs of tears for <hi>Sion</hi> the Daughter of my People. I have been lately traduced by an unknown Author for an <hi>Antinominian,</hi> now by another for a <hi>Papist;</hi> as if these two were of the same Principles, which rationally are as notoriously An<g ref="char:EOLhyphen"/>tiperistical, and Antiphrastical, as the qualities of two contrary Elements one to the other. The <hi>Antinomian</hi> I own, as far as the Apostle <hi>Paul</hi> himself owned it, <hi>Rom.</hi> 3.8, 31. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>We make not void the Law through faith; but</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>we establish or make it to stand in Christ our surety, who hath fulfilled it and satisfied it, for our compleat, full, perfect and total righ<g ref="char:EOLhyphen"/>teousness
+<pb n="2" facs="tcp:207789:2"/>before God.</hi> Rom. 8.2, 3. Because Righteousness by the Spirit wrote in man, and by man, at best being mixed with some dregs and remains of sin, <hi>Rom. 7. ult.</hi> No such righteousness never did, never will, or never can satisfie the holy, pure and perfect Law of God, for sufficient and required satisfaction; therefore the Law requiring of us, as says <hi>Wolleb. Omnimodam conformitatem cum eo,</hi> as inward and pure perfect sanctity of mind, as before the fall, such as no mortal never had since, and also an external perfect obedience to it, and ob<g ref="char:EOLhyphen"/>solving Divine Justice the just penalty of a treble death, <hi>viz.</hi> spiritual, bitter, stinging, temporal and eternal, all which none but the blessed Jesus ever could or did undergo so as to satisfie thereby Divine Justice. Therefore this treble Righteousness of him alone; <hi>viz.</hi> Original, Actual, and Passive, hath fully satis<g ref="char:EOLhyphen"/>fied and fulfilled the Law, and offended Justice, and by Gods Gracious Imputation become the Legal and Evangelical Righteousness of the Elect, and is both our San<g ref="char:EOLhyphen"/>ctification and Justification before God, that by faith alone receive it. I am also with the Apostle (<hi>v.</hi> 8.) slandered to be a broacher of sinful liberty, for maintaining this Faith once delivered to the Saints; and now a <hi>Papist</hi> for main<g ref="char:EOLhyphen"/>taining the Doctrine of Justification by free Grace without works. And that the Law neither justifies, for that is done by Christs <hi>Righteousness Imputed,</hi> nor does it sanctifie inwardly, for that is the work of the Spirit of Christ in his ju<g ref="char:EOLhyphen"/>stified children. And yet is the external Law a rule (the Law of the Spirit of Christ being in the heart by love) to direct a believers foot in this world in the paths of righteousness to manward, for the glory of God. And this Doctrine never <hi>Bellarmine</hi> or any <hi>Papist</hi> in the world ever held; but bitterly opposed the Protestants in it; as Dr. <hi>White, Luther, Calvin, Jewel</hi> and <hi>Willet,</hi> do all bear me witness. And yet this Gentleman blushes not to say, I am a <hi>Papist.</hi> His char<g ref="char:EOLhyphen"/>ges lye desperate against me in the eight and ninth <hi>pages of his Pamphlet.</hi> The first charge is for the Alarm. To which my Name is not, and therefore can't be justly charged with it. But what is there in it that looks like a <hi>Papist?</hi> Why, it reviles the Clergy. I answer, then you may as well Popisie the Prophet <hi>Isaiah</hi> as that Author: for <hi>Isa.</hi> 56 <hi>ult.</hi> he exclaims against the vices of the <hi>Jewish</hi> Cler<g ref="char:EOLhyphen"/>gy; and if Popery be so ancient as <hi>Isaias</hi>'s time, then our Chronologists are much mistaken in the computation of the Popish <hi>Epoca's,</hi> or beginning. And the Apostle taught that you call Popery, 1 <hi>Tim.</hi> 5. <hi>Them that sin rebuke before all.</hi> Especially sins of Errour and Heresie, which looking with a more <hi>gastly</hi> vi<g ref="char:EOLhyphen"/>sage than errours of life, are to be soundly chastized, when errours of life may be covered with charity, 1 <hi>Pet.</hi> 5. As said Reverend <hi>Ʋsher,</hi> I can bear with men in Circumstantials, but in errours of Doctrine I may not. <hi>Gal.</hi> 1.8. Cursed therefore be the broachers of another Gospel, than that of free Grace to Gods eternally ordained Elect, for whom Christ only died, and God the Father chose in him before the world was, by his own act, before by the act of Faith they were in him. And the Spirit quickens to believe, and not mans lye, call'd free will. If to reprove men of different opinions, for supposed Errours be a symp<g ref="char:EOLhyphen"/>tome of Popery, then is this Gentleman himself to be suspected for reviling a<g ref="char:EOLhyphen"/>gainst me and my Books, as differing from him and others. And if the words of <hi>Tacitus</hi> be credible, <hi>Suspectus semper invisus;</hi> then is he to be suspected for con<g ref="char:EOLhyphen"/>cealing his Name, the usual form of Jesuits. Nor can he plead justly the imita<g ref="char:EOLhyphen"/>tion of the Author to the <hi>Hebrews;</hi> for he being for Justification alone by faith in Christ without works, wrote to the <hi>Jews</hi> that were blindly zealous for works, as ours are now, and yet most remote from doing them. This there<g ref="char:EOLhyphen"/>fore is not his or others case now. But <hi>Patronius</hi> will resolve the doubt, <hi>Quam male est extra legem viventibus, quicquid meruerunt semper expectant,</hi> fat swine cry hideously when medled with. Because—if sharp ironical sarcasmick re<g ref="char:EOLhyphen"/>proof between Conformists and Dissenters be adjusted to the marks of <hi>Papists;</hi> how will the Reverend Dr. <hi>S.</hi> escape your lash, for preaching against Dissenters?
+<pb n="3" facs="tcp:207789:2"/>and those long winded Pipes that <hi>unitim</hi> let fly against him, as if every blow would cut him in twain, when a Reverend Divine had sufficiently and m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stestly before reprehended his fault. Either I am a <hi>Papist</hi> or a Child, crys the Child, (the Eagle took, for no body knew whose it was) a fool, a Knave, or what the black stroke silently denotes, crackt-brain'd, &amp;c. <hi>Ʋt ait stultus in fabula,</hi> as says the Fool. Must a man then be either a <hi>Papist,</hi> or a Fool? Pray, <hi>Sir,</hi> then what are you? a Fool or a <hi>Papist?</hi> If there be no <hi>medium</hi> between your Ex<g ref="char:EOLhyphen"/>treams, therefore they are not well set together. But yet I will chuse the Fool, because I am bid become a Fool for Christ. And for your second Popish Miracle, which so much strain'd your wit to bring out, 'twill amount to no more than the Mountain brought forth, a Mouse. For a man may be first hanged, and then judged, as well as St. <hi>John,</hi> 1 Joh. 2, says, <hi>That he that hates his brother is a murderer;</hi> and yet the person hated, is not properly kill'd, though he be men<g ref="char:EOLhyphen"/>tally, or Metaphorically. So am I by you and others first hanged, and then judg<g ref="char:EOLhyphen"/>ed, according to the <hi>Corinthian</hi> Law; and yet no second Popish Miracle in the case. Therefore lay your lyes closer together the next time, as the fellow that at once shot a Deer through the right foot and left ear, your <hi>Q.</hi> and <hi>A.</hi> need spurs, they are not acute enough, nor do they parallel the inbred enmity in your heart. And had I a boy that used no wittier expressions, I would chastise him for a dunce. A <hi>[Gang]</hi> say you, <hi>Sir,</hi> the word sounds theevishly and not Po<g ref="char:EOLhyphen"/>pishly, which first you have not taxed me with. But some of my <hi>[Gang]</hi> are so<g ref="char:EOLhyphen"/>ber persons, they are beholding to you for your Clemency, if you will tell us who they be, and who you are, we'l return you as much thanks as you deserve. Another charge is for reviling the <hi>Conformists</hi> and the <hi>Presbyterians</hi> too, (by which I judg, <hi>ex equo &amp; asino procreatus es,</hi>) and therefore comes up the lear<g ref="char:EOLhyphen"/>ned Conclusion, and lays flat Popery to my charge. I answer, a man may reprove (not revile) several sects or sorts of persons for their errours, and yet neither separate from them in affection, or society. Many <hi>Species</hi> may be contained un<g ref="char:EOLhyphen"/>der a <hi>Genus,</hi> and yet the other <hi>Predicables,</hi> as <hi>proprium accidens,</hi> or <hi>differentia,</hi> not commit a Schism in the <hi>Genus;</hi> so a man may see cause to reprove Confor<g ref="char:EOLhyphen"/>mists and Dissenters too, if they are both faulty, and not be a Papist, no more than <hi>Paul</hi> was a Heathen, for reprehending the <hi>Romans</hi> and <hi>Galatians</hi> and other Churches, for doting upon works for Justification, and so slighting Christs Righte<g ref="char:EOLhyphen"/>ousness, when the mean time he was both an Apostle and a member of Christ in the same Churches. Therefore your Logick is as criminal as your charity. For my part I love all, (by what name soever called) that love the Blessed Jesus, and his Righteousness alone exalt; but such as depart from the ancient Apostolical Principles and true Protestant grounds, and lean to free-will in all men, to help to save themselves, general Redemption, and falling from Grace, and such Po<g ref="char:EOLhyphen"/>pish Trash, I am bid to depart from such, 1 <hi>Tim.</hi> 3.1, 2, 3, 4, 5, 6. Yet to love them, but not communicate in their sinful unscriptural Worships and Doctrines. Nor will I judg the Consciences of any that profess the true Jesus, and are civil in the Common-weal; nor have their bodies punished for their Consciences. I never did represent any Sect among Protestants to be a bloody people, therefore the Pamphleter charges me with an abominable falshood, for I well know 'tis the Scarlet Whore, <hi>Rev.</hi> 17. that sheds the blood of the Martyrs; for Saints dare not hate their brother, because they have the seed of God remaining in them, and God in Christ, is love. But this I have found, that there are many great prating proud Professors and Preachers too, that make nothing to hate, backbite, re<g ref="char:EOLhyphen"/>vile others if they do but an hairs breadth depart from their Oracles, for which there is no more ground in Scripture, than for <hi>Thomas Aquinas</hi> Divinity, or <hi>Scheiblers</hi> Metaphysicks.</p>
+            <list>
+               <item>1. <hi>Pap.</hi> Are for free-will to co-operate with the Spirit in Regeneration, for general Redemption, and falling from Grace; they deny eternal free Personal
+<pb n="4" facs="tcp:207789:3"/>Election, and that Election is no act of Gods will, but only foreknowledg. See <hi>Bell. de Elect. Co. Trent.</hi> But old Queen <hi>Elizabeth</hi>-Protestants hold the contrary. See <hi>Willet Con. Pap. White, Jewel, Whita<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er, Luther,</hi> and <hi>Calvin.</hi>
+               </item>
+               <item>2. <hi>Pap.</hi> Are for Justification by works and faith too, as a work and habit in the soul, and not as an instrument only to receive Christ our Righteousness. See <hi>Bell de Just. Co. T.</hi> but old <hi>Q. E</hi>'s Protestants are for Justification by Christs Blood and Righteousness alone being received by faith alone. See Dr. <hi>Willet, Con. Pap. Jewel Con. Hardin. Malan. Zanchy, &amp;c. Perkins, Calv. Davenant, Sybs, Twiss, &amp;c.</hi>
+               </item>
+               <item>3. <hi>Pap</hi> Set up an Humane, Civil, Political Tribunal in the midst of Christs Church, and in the Consciences too; but old Protestants set up Christs Word and Spirit for the Judg of the Consciences: compare <hi>Co. Trent</hi> with <hi>Willet Con. Pap.</hi>
+               </item>
+               <item>4. <hi>Pap.</hi> Will not suffer Kings and Princes to live, if they dont act to uphold their usurped Ecclesiastical Tyranny o're Gods Church, but the old Q. <hi>E.</hi> Protestants pray for Kings, Prin<g ref="char:EOLhyphen"/>ces and Parliaments, that they may prosper, and rule for the Glory of God and encourage<g ref="char:EOLhyphen"/>ment of the Article of Free Justification, by Christs Righteousness alone, received by Faith. And freely desire that Earthly Governours may rule the Bodies and Civil State, without interrup<g ref="char:EOLhyphen"/>tion, and Christ alone by his Word and Spirit the Conscience. See <hi>Will. Con. Pap. &amp; Bellarm. de disc.</hi>
+               </item>
+               <item>5. <hi>Pap</hi> Brag that Christ Merited that the Eternal punishment of sins might be taken off, but that the Temporal punishments are born by the Church, and that Christ bore only the pu<g ref="char:EOLhyphen"/>nishment, not the guilt or filth of sin, but left that for us to take away by our good Works, to<g ref="char:EOLhyphen"/>gether with the Spirit within. And that Christs Merits makes the Spirits work within passable to Gods Justice for Justification. <hi>Bel. de Mer. C. T.</hi> but Old Protestants believe Christ bore all, finished sin, and the effects of sin too, <hi>Dan.</hi> 9.24, and that for Justification he himself in their room and stead did all to satisfie divine Justice, and fulfill the Law; therefore merited not Justification, but wrought in himself, 2 <hi>Cor.</hi> 5 21. and merited that all wrought in or by us for his Glory alone, should be accepted, 1 <hi>Cor.</hi> 15. <hi>ult.</hi> But if we should go about to satisfie and fulfill the Law for our Righteousness and Justification, we shall not be accepted, for all our Righteousness is as filthy rags, <hi>Isa.</hi> 56.4. <hi>Phil.</hi> 3. and that Christ hath bore and taken away all iniquity it self, guilt, filth pu<g ref="char:EOLhyphen"/>nishment and all, and bore our filthy garments, <hi>Zac.</hi> 3.1. <hi>Jo.</hi> 1.9. <hi>Heb.</hi> 1.3. and we are sanctified before God in his blood, as well as justified, <hi>Heb.</hi> 10.10 14. <hi>Heb.</hi> 13.12. <hi>Can</hi> 5 7. <hi>Numb.</hi> 21.23. <hi>Rev.</hi> 14.5. <hi>Eph.</hi> 5.26, 27. <hi>Col.</hi> 1.22. <hi>Col.</hi> 2.9, 10. but yet Christ was not formally a sinner, but im<g ref="char:EOLhyphen"/>putatively, and by an act of Grace, all was transacted on him, and finished in him, <hi>Dan.</hi> 9.24. <hi>Gal.</hi> 3.13. 2 <hi>Cor.</hi> 5.21. Now people, that have Eyes, judg if my Writings be like the <hi>Papist,</hi> or if this Pamphleter be not a false accuser, <hi>Rev.</hi> 12. the accuser of the brethren. And whereas the subtil Papists have gone about to lay the Plot on others most falsly; yet I do believe that it is a Judgment of God upon them, for creeping so near the damnable Errors of the Pap. and Do<g ref="char:EOLhyphen"/>ctrines of Antichrist, since the Sun hath been darkened, and the Article of Free Justification obscu<g ref="char:EOLhyphen"/>red: for as Dr. <hi>Ʋsher</hi> said, that the Pap. should prevail against them, because they scraped so great acquaintance with the Whore, in favouring her damnable Doctrines of Free-will and pretended Works against the grace of God in Jesus.</item>
+            </list>
+            <p>And as for my Faith, I believe an Apostolical Episcopacy, and Evangelical Independency is a better Government in the Church, than Popish Bishops, or Classical Prelacy; and yet I allow a Prelacy bottomed upon Love and Christian preference. I believe the Scriptures to be the Rule of Faith and Life, without, and the Spirit of Christ within, I believe a sinner is freely justified by Christs Blood and Righteousness imputed without Works; and yet that the Faith that justi<g ref="char:EOLhyphen"/>fies, is not without good Works and true Love. I believe the Church of Christ as to the Consci<g ref="char:EOLhyphen"/>ence hath no other Tribunal than Christ, his Word and Spirit, and that mens Bodies, Estates and Names ought not to suffer for their Consciences. And that the Kings, Princes, Parliaments and Governours of the World may wholly without interruption of spiritual persons rule the civil and bodily State, till Christ come from Heaven, <hi>Dan.</hi> 7.22. <hi>Acts.</hi> 3.20, 21. and be honoured, loved, and prayed for by all men, and obeyed as far as Christ Commands, <hi>Rom.</hi> 13. 1 <hi>Pet.</hi> 2.1 3, 14, 15, 16, 17. Actively or Passively. Now, Sir, put on your spectacles, and see if you can discern an Old Q. <hi>E.</hi> Protestant, from one of your own faigning, and shoot not your —bolt so at random.</p>
+            <p>And now, Sir, I must tell the world that I'le wipe my Pen, and resolve never more to nick it again in Answering such malicious foolish unlearned Trash; for <hi>Nam si cum stercore certo, vinco seu vincor, semper Ego maculor,</hi> by no Middleman or Halter between <hi>Baal</hi> and <hi>Jehovah,</hi> but a real Believer and Asserter of Free-grace.</p>
+            <closer>
+               <signed>Jo. Humphryes.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>THere is lately published <hi>[Ccleus<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,]</hi> or an Answer to a Book called (but falsly) the Glory of Free Grace displayed; wherein is plainly proved by Scripture, that that Book, is the Glory of Free Grace ob<g ref="char:EOLhyphen"/>scured, like the Authors Name, sold for <hi>6d</hi> the piece, at Mr. <hi>Woods</hi> in <hi>Barbican,</hi> a <hi>Brasier.</hi> at Mr. <hi>Williams</hi> in <hi>Long Acre,</hi> at the Hand and Pen, and at Mr. <hi>Foxes</hi> near the Christian Coffee-house in <hi>Holborn,</hi> and at Mr. <hi>Jacksons</hi> in the back side the Bores Head near <hi>Smithfield-Bars.</hi> Written by <hi>John Humphryes.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>Printed for the Author 1681.</p>
+            <pb facs="tcp:207789:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
